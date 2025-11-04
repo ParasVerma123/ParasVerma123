@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Paras Kumar Verma
+🎓 B.Tech CSE (AI & ML) @ Lovely Professional University  
+🤖 Member of RISC - Robotics & Intelligent Systems Community  
 
-<!--
-**ParasVerma123/ParasVerma123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 What I'm Learning
+- Python (Core + Numpy, Pandas)
+- Basics of Machine Learning
+- Git & GitHub
+- Communication & teamwork skills
 
-Here are some ideas to get you started:
+## ⚙️ What I Can Do
+- Write small automation scripts in Python
+- Make simple data analysis notebooks
+- Design social media posts using Canva
+- Help in organizing tech events
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⏰ Availability
+- 5–6 hours/week for club projects and contributions
+- Open for collaboration on AI, automation, or open-source ideas
+
+## 📫 Reach Me
+- Email: paraskuverma14@gmail.com
+- GitHub: https://github.com/ParasVerma123/README.md
+- LinkedIn: https://www.linkedin.com/in/parascoder/
